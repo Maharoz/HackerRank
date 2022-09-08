@@ -1,0 +1,15 @@
+H:\HackerRank\AVeryBigSum\AVeryBigSum\bin\Debug\net6.0\AVeryBigSum.exe
+H:\HackerRank\AVeryBigSum\AVeryBigSum\bin\Debug\net6.0\AVeryBigSum.deps.json
+H:\HackerRank\AVeryBigSum\AVeryBigSum\bin\Debug\net6.0\AVeryBigSum.runtimeconfig.json
+H:\HackerRank\AVeryBigSum\AVeryBigSum\bin\Debug\net6.0\AVeryBigSum.dll
+H:\HackerRank\AVeryBigSum\AVeryBigSum\bin\Debug\net6.0\AVeryBigSum.pdb
+H:\HackerRank\AVeryBigSum\AVeryBigSum\obj\Debug\net6.0\AVeryBigSum.csproj.AssemblyReference.cache
+H:\HackerRank\AVeryBigSum\AVeryBigSum\obj\Debug\net6.0\AVeryBigSum.GeneratedMSBuildEditorConfig.editorconfig
+H:\HackerRank\AVeryBigSum\AVeryBigSum\obj\Debug\net6.0\AVeryBigSum.AssemblyInfoInputs.cache
+H:\HackerRank\AVeryBigSum\AVeryBigSum\obj\Debug\net6.0\AVeryBigSum.AssemblyInfo.cs
+H:\HackerRank\AVeryBigSum\AVeryBigSum\obj\Debug\net6.0\AVeryBigSum.csproj.CoreCompileInputs.cache
+H:\HackerRank\AVeryBigSum\AVeryBigSum\obj\Debug\net6.0\AVeryBigSum.dll
+H:\HackerRank\AVeryBigSum\AVeryBigSum\obj\Debug\net6.0\refint\AVeryBigSum.dll
+H:\HackerRank\AVeryBigSum\AVeryBigSum\obj\Debug\net6.0\AVeryBigSum.pdb
+H:\HackerRank\AVeryBigSum\AVeryBigSum\obj\Debug\net6.0\AVeryBigSum.genruntimeconfig.cache
+H:\HackerRank\AVeryBigSum\AVeryBigSum\obj\Debug\net6.0\ref\AVeryBigSum.dll

@@ -1,4 +1,5 @@
-﻿string aliceInput = Console.ReadLine();
+﻿//https://www.hackerrank.com/challenges/compare-the-triplets
+string aliceInput = Console.ReadLine();
 string bonInput = Console.ReadLine();
 
 int[] aliceArray = Array.ConvertAll(aliceInput.Split(' ').ToArray(), int.Parse);
