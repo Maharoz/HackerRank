@@ -1,0 +1,15 @@
+H:\HackerRank\birthday-cake-candles\birthday-cake-candles\bin\Debug\net6.0\birthday-cake-candles.exe
+H:\HackerRank\birthday-cake-candles\birthday-cake-candles\bin\Debug\net6.0\birthday-cake-candles.deps.json
+H:\HackerRank\birthday-cake-candles\birthday-cake-candles\bin\Debug\net6.0\birthday-cake-candles.runtimeconfig.json
+H:\HackerRank\birthday-cake-candles\birthday-cake-candles\bin\Debug\net6.0\birthday-cake-candles.dll
+H:\HackerRank\birthday-cake-candles\birthday-cake-candles\bin\Debug\net6.0\birthday-cake-candles.pdb
+H:\HackerRank\birthday-cake-candles\birthday-cake-candles\obj\Debug\net6.0\birthday-cake-candles.csproj.AssemblyReference.cache
+H:\HackerRank\birthday-cake-candles\birthday-cake-candles\obj\Debug\net6.0\birthday-cake-candles.GeneratedMSBuildEditorConfig.editorconfig
+H:\HackerRank\birthday-cake-candles\birthday-cake-candles\obj\Debug\net6.0\birthday-cake-candles.AssemblyInfoInputs.cache
+H:\HackerRank\birthday-cake-candles\birthday-cake-candles\obj\Debug\net6.0\birthday-cake-candles.AssemblyInfo.cs
+H:\HackerRank\birthday-cake-candles\birthday-cake-candles\obj\Debug\net6.0\birthday-cake-candles.csproj.CoreCompileInputs.cache
+H:\HackerRank\birthday-cake-candles\birthday-cake-candles\obj\Debug\net6.0\birthday-cake-candles.dll
+H:\HackerRank\birthday-cake-candles\birthday-cake-candles\obj\Debug\net6.0\refint\birthday-cake-candles.dll
+H:\HackerRank\birthday-cake-candles\birthday-cake-candles\obj\Debug\net6.0\birthday-cake-candles.pdb
+H:\HackerRank\birthday-cake-candles\birthday-cake-candles\obj\Debug\net6.0\birthday-cake-candles.genruntimeconfig.cache
+H:\HackerRank\birthday-cake-candles\birthday-cake-candles\obj\Debug\net6.0\ref\birthday-cake-candles.dll
