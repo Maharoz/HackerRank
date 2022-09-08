@@ -1,0 +1,15 @@
+H:\HackerRank\StairCase\StairCase\bin\Debug\net6.0\StairCase.exe
+H:\HackerRank\StairCase\StairCase\bin\Debug\net6.0\StairCase.deps.json
+H:\HackerRank\StairCase\StairCase\bin\Debug\net6.0\StairCase.runtimeconfig.json
+H:\HackerRank\StairCase\StairCase\bin\Debug\net6.0\StairCase.dll
+H:\HackerRank\StairCase\StairCase\bin\Debug\net6.0\StairCase.pdb
+H:\HackerRank\StairCase\StairCase\obj\Debug\net6.0\StairCase.csproj.AssemblyReference.cache
+H:\HackerRank\StairCase\StairCase\obj\Debug\net6.0\StairCase.GeneratedMSBuildEditorConfig.editorconfig
+H:\HackerRank\StairCase\StairCase\obj\Debug\net6.0\StairCase.AssemblyInfoInputs.cache
+H:\HackerRank\StairCase\StairCase\obj\Debug\net6.0\StairCase.AssemblyInfo.cs
+H:\HackerRank\StairCase\StairCase\obj\Debug\net6.0\StairCase.csproj.CoreCompileInputs.cache
+H:\HackerRank\StairCase\StairCase\obj\Debug\net6.0\StairCase.dll
+H:\HackerRank\StairCase\StairCase\obj\Debug\net6.0\refint\StairCase.dll
+H:\HackerRank\StairCase\StairCase\obj\Debug\net6.0\StairCase.pdb
+H:\HackerRank\StairCase\StairCase\obj\Debug\net6.0\StairCase.genruntimeconfig.cache
+H:\HackerRank\StairCase\StairCase\obj\Debug\net6.0\ref\StairCase.dll
