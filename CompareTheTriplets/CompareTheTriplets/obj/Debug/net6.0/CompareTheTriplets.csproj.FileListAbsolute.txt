@@ -1,0 +1,15 @@
+H:\HackerRank\CompareTheTriplets\CompareTheTriplets\bin\Debug\net6.0\CompareTheTriplets.exe
+H:\HackerRank\CompareTheTriplets\CompareTheTriplets\bin\Debug\net6.0\CompareTheTriplets.deps.json
+H:\HackerRank\CompareTheTriplets\CompareTheTriplets\bin\Debug\net6.0\CompareTheTriplets.runtimeconfig.json
+H:\HackerRank\CompareTheTriplets\CompareTheTriplets\bin\Debug\net6.0\CompareTheTriplets.dll
+H:\HackerRank\CompareTheTriplets\CompareTheTriplets\bin\Debug\net6.0\CompareTheTriplets.pdb
+H:\HackerRank\CompareTheTriplets\CompareTheTriplets\obj\Debug\net6.0\CompareTheTriplets.csproj.AssemblyReference.cache
+H:\HackerRank\CompareTheTriplets\CompareTheTriplets\obj\Debug\net6.0\CompareTheTriplets.GeneratedMSBuildEditorConfig.editorconfig
+H:\HackerRank\CompareTheTriplets\CompareTheTriplets\obj\Debug\net6.0\CompareTheTriplets.AssemblyInfoInputs.cache
+H:\HackerRank\CompareTheTriplets\CompareTheTriplets\obj\Debug\net6.0\CompareTheTriplets.AssemblyInfo.cs
+H:\HackerRank\CompareTheTriplets\CompareTheTriplets\obj\Debug\net6.0\CompareTheTriplets.csproj.CoreCompileInputs.cache
+H:\HackerRank\CompareTheTriplets\CompareTheTriplets\obj\Debug\net6.0\CompareTheTriplets.dll
+H:\HackerRank\CompareTheTriplets\CompareTheTriplets\obj\Debug\net6.0\refint\CompareTheTriplets.dll
+H:\HackerRank\CompareTheTriplets\CompareTheTriplets\obj\Debug\net6.0\CompareTheTriplets.pdb
+H:\HackerRank\CompareTheTriplets\CompareTheTriplets\obj\Debug\net6.0\CompareTheTriplets.genruntimeconfig.cache
+H:\HackerRank\CompareTheTriplets\CompareTheTriplets\obj\Debug\net6.0\ref\CompareTheTriplets.dll

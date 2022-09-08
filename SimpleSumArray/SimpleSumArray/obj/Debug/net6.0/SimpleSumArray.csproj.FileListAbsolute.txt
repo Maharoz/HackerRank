@@ -1,0 +1,15 @@
+H:\HackerRank\SimpleSumArray\SimpleSumArray\bin\Debug\net6.0\SimpleSumArray.exe
+H:\HackerRank\SimpleSumArray\SimpleSumArray\bin\Debug\net6.0\SimpleSumArray.deps.json
+H:\HackerRank\SimpleSumArray\SimpleSumArray\bin\Debug\net6.0\SimpleSumArray.runtimeconfig.json
+H:\HackerRank\SimpleSumArray\SimpleSumArray\bin\Debug\net6.0\SimpleSumArray.dll
+H:\HackerRank\SimpleSumArray\SimpleSumArray\bin\Debug\net6.0\SimpleSumArray.pdb
+H:\HackerRank\SimpleSumArray\SimpleSumArray\obj\Debug\net6.0\SimpleSumArray.csproj.AssemblyReference.cache
+H:\HackerRank\SimpleSumArray\SimpleSumArray\obj\Debug\net6.0\SimpleSumArray.GeneratedMSBuildEditorConfig.editorconfig
+H:\HackerRank\SimpleSumArray\SimpleSumArray\obj\Debug\net6.0\SimpleSumArray.AssemblyInfoInputs.cache
+H:\HackerRank\SimpleSumArray\SimpleSumArray\obj\Debug\net6.0\SimpleSumArray.AssemblyInfo.cs
+H:\HackerRank\SimpleSumArray\SimpleSumArray\obj\Debug\net6.0\SimpleSumArray.csproj.CoreCompileInputs.cache
+H:\HackerRank\SimpleSumArray\SimpleSumArray\obj\Debug\net6.0\SimpleSumArray.dll
+H:\HackerRank\SimpleSumArray\SimpleSumArray\obj\Debug\net6.0\refint\SimpleSumArray.dll
+H:\HackerRank\SimpleSumArray\SimpleSumArray\obj\Debug\net6.0\SimpleSumArray.pdb
+H:\HackerRank\SimpleSumArray\SimpleSumArray\obj\Debug\net6.0\SimpleSumArray.genruntimeconfig.cache
+H:\HackerRank\SimpleSumArray\SimpleSumArray\obj\Debug\net6.0\ref\SimpleSumArray.dll

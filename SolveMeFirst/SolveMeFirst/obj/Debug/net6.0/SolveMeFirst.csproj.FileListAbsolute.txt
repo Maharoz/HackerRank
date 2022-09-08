@@ -1,0 +1,15 @@
+H:\HackerRank\SolveMeFirst\SolveMeFirst\bin\Debug\net6.0\SolveMeFirst.exe
+H:\HackerRank\SolveMeFirst\SolveMeFirst\bin\Debug\net6.0\SolveMeFirst.deps.json
+H:\HackerRank\SolveMeFirst\SolveMeFirst\bin\Debug\net6.0\SolveMeFirst.runtimeconfig.json
+H:\HackerRank\SolveMeFirst\SolveMeFirst\bin\Debug\net6.0\SolveMeFirst.dll
+H:\HackerRank\SolveMeFirst\SolveMeFirst\bin\Debug\net6.0\SolveMeFirst.pdb
+H:\HackerRank\SolveMeFirst\SolveMeFirst\obj\Debug\net6.0\SolveMeFirst.csproj.AssemblyReference.cache
+H:\HackerRank\SolveMeFirst\SolveMeFirst\obj\Debug\net6.0\SolveMeFirst.GeneratedMSBuildEditorConfig.editorconfig
+H:\HackerRank\SolveMeFirst\SolveMeFirst\obj\Debug\net6.0\SolveMeFirst.AssemblyInfoInputs.cache
+H:\HackerRank\SolveMeFirst\SolveMeFirst\obj\Debug\net6.0\SolveMeFirst.AssemblyInfo.cs
+H:\HackerRank\SolveMeFirst\SolveMeFirst\obj\Debug\net6.0\SolveMeFirst.csproj.CoreCompileInputs.cache
+H:\HackerRank\SolveMeFirst\SolveMeFirst\obj\Debug\net6.0\SolveMeFirst.dll
+H:\HackerRank\SolveMeFirst\SolveMeFirst\obj\Debug\net6.0\refint\SolveMeFirst.dll
+H:\HackerRank\SolveMeFirst\SolveMeFirst\obj\Debug\net6.0\SolveMeFirst.pdb
+H:\HackerRank\SolveMeFirst\SolveMeFirst\obj\Debug\net6.0\SolveMeFirst.genruntimeconfig.cache
+H:\HackerRank\SolveMeFirst\SolveMeFirst\obj\Debug\net6.0\ref\SolveMeFirst.dll
