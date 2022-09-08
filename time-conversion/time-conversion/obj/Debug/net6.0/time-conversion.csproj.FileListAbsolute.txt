@@ -1,0 +1,15 @@
+H:\HackerRank\time-conversion\time-conversion\bin\Debug\net6.0\time-conversion.exe
+H:\HackerRank\time-conversion\time-conversion\bin\Debug\net6.0\time-conversion.deps.json
+H:\HackerRank\time-conversion\time-conversion\bin\Debug\net6.0\time-conversion.runtimeconfig.json
+H:\HackerRank\time-conversion\time-conversion\bin\Debug\net6.0\time-conversion.dll
+H:\HackerRank\time-conversion\time-conversion\bin\Debug\net6.0\time-conversion.pdb
+H:\HackerRank\time-conversion\time-conversion\obj\Debug\net6.0\time-conversion.csproj.AssemblyReference.cache
+H:\HackerRank\time-conversion\time-conversion\obj\Debug\net6.0\time-conversion.GeneratedMSBuildEditorConfig.editorconfig
+H:\HackerRank\time-conversion\time-conversion\obj\Debug\net6.0\time-conversion.AssemblyInfoInputs.cache
+H:\HackerRank\time-conversion\time-conversion\obj\Debug\net6.0\time-conversion.AssemblyInfo.cs
+H:\HackerRank\time-conversion\time-conversion\obj\Debug\net6.0\time-conversion.csproj.CoreCompileInputs.cache
+H:\HackerRank\time-conversion\time-conversion\obj\Debug\net6.0\time-conversion.dll
+H:\HackerRank\time-conversion\time-conversion\obj\Debug\net6.0\refint\time-conversion.dll
+H:\HackerRank\time-conversion\time-conversion\obj\Debug\net6.0\time-conversion.pdb
+H:\HackerRank\time-conversion\time-conversion\obj\Debug\net6.0\time-conversion.genruntimeconfig.cache
+H:\HackerRank\time-conversion\time-conversion\obj\Debug\net6.0\ref\time-conversion.dll
