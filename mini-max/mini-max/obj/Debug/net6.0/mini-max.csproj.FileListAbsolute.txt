@@ -1,0 +1,15 @@
+H:\HackerRank\mini-max\mini-max\bin\Debug\net6.0\mini-max.exe
+H:\HackerRank\mini-max\mini-max\bin\Debug\net6.0\mini-max.deps.json
+H:\HackerRank\mini-max\mini-max\bin\Debug\net6.0\mini-max.runtimeconfig.json
+H:\HackerRank\mini-max\mini-max\bin\Debug\net6.0\mini-max.dll
+H:\HackerRank\mini-max\mini-max\bin\Debug\net6.0\mini-max.pdb
+H:\HackerRank\mini-max\mini-max\obj\Debug\net6.0\mini-max.csproj.AssemblyReference.cache
+H:\HackerRank\mini-max\mini-max\obj\Debug\net6.0\mini-max.GeneratedMSBuildEditorConfig.editorconfig
+H:\HackerRank\mini-max\mini-max\obj\Debug\net6.0\mini-max.AssemblyInfoInputs.cache
+H:\HackerRank\mini-max\mini-max\obj\Debug\net6.0\mini-max.AssemblyInfo.cs
+H:\HackerRank\mini-max\mini-max\obj\Debug\net6.0\mini-max.csproj.CoreCompileInputs.cache
+H:\HackerRank\mini-max\mini-max\obj\Debug\net6.0\mini-max.dll
+H:\HackerRank\mini-max\mini-max\obj\Debug\net6.0\refint\mini-max.dll
+H:\HackerRank\mini-max\mini-max\obj\Debug\net6.0\mini-max.pdb
+H:\HackerRank\mini-max\mini-max\obj\Debug\net6.0\mini-max.genruntimeconfig.cache
+H:\HackerRank\mini-max\mini-max\obj\Debug\net6.0\ref\mini-max.dll
