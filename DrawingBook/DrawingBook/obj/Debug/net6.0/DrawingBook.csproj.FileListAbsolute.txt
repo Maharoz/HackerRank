@@ -1,0 +1,15 @@
+H:\HackerRank\DrawingBook\DrawingBook\bin\Debug\net6.0\DrawingBook.exe
+H:\HackerRank\DrawingBook\DrawingBook\bin\Debug\net6.0\DrawingBook.deps.json
+H:\HackerRank\DrawingBook\DrawingBook\bin\Debug\net6.0\DrawingBook.runtimeconfig.json
+H:\HackerRank\DrawingBook\DrawingBook\bin\Debug\net6.0\DrawingBook.dll
+H:\HackerRank\DrawingBook\DrawingBook\bin\Debug\net6.0\DrawingBook.pdb
+H:\HackerRank\DrawingBook\DrawingBook\obj\Debug\net6.0\DrawingBook.csproj.AssemblyReference.cache
+H:\HackerRank\DrawingBook\DrawingBook\obj\Debug\net6.0\DrawingBook.GeneratedMSBuildEditorConfig.editorconfig
+H:\HackerRank\DrawingBook\DrawingBook\obj\Debug\net6.0\DrawingBook.AssemblyInfoInputs.cache
+H:\HackerRank\DrawingBook\DrawingBook\obj\Debug\net6.0\DrawingBook.AssemblyInfo.cs
+H:\HackerRank\DrawingBook\DrawingBook\obj\Debug\net6.0\DrawingBook.csproj.CoreCompileInputs.cache
+H:\HackerRank\DrawingBook\DrawingBook\obj\Debug\net6.0\DrawingBook.dll
+H:\HackerRank\DrawingBook\DrawingBook\obj\Debug\net6.0\refint\DrawingBook.dll
+H:\HackerRank\DrawingBook\DrawingBook\obj\Debug\net6.0\DrawingBook.pdb
+H:\HackerRank\DrawingBook\DrawingBook\obj\Debug\net6.0\DrawingBook.genruntimeconfig.cache
+H:\HackerRank\DrawingBook\DrawingBook\obj\Debug\net6.0\ref\DrawingBook.dll
