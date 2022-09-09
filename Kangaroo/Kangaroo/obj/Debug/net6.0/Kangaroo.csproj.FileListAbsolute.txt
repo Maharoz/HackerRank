@@ -1,0 +1,15 @@
+H:\HackerRank\Kangaroo\Kangaroo\bin\Debug\net6.0\Kangaroo.exe
+H:\HackerRank\Kangaroo\Kangaroo\bin\Debug\net6.0\Kangaroo.deps.json
+H:\HackerRank\Kangaroo\Kangaroo\bin\Debug\net6.0\Kangaroo.runtimeconfig.json
+H:\HackerRank\Kangaroo\Kangaroo\bin\Debug\net6.0\Kangaroo.dll
+H:\HackerRank\Kangaroo\Kangaroo\bin\Debug\net6.0\Kangaroo.pdb
+H:\HackerRank\Kangaroo\Kangaroo\obj\Debug\net6.0\Kangaroo.csproj.AssemblyReference.cache
+H:\HackerRank\Kangaroo\Kangaroo\obj\Debug\net6.0\Kangaroo.GeneratedMSBuildEditorConfig.editorconfig
+H:\HackerRank\Kangaroo\Kangaroo\obj\Debug\net6.0\Kangaroo.AssemblyInfoInputs.cache
+H:\HackerRank\Kangaroo\Kangaroo\obj\Debug\net6.0\Kangaroo.AssemblyInfo.cs
+H:\HackerRank\Kangaroo\Kangaroo\obj\Debug\net6.0\Kangaroo.csproj.CoreCompileInputs.cache
+H:\HackerRank\Kangaroo\Kangaroo\obj\Debug\net6.0\Kangaroo.dll
+H:\HackerRank\Kangaroo\Kangaroo\obj\Debug\net6.0\refint\Kangaroo.dll
+H:\HackerRank\Kangaroo\Kangaroo\obj\Debug\net6.0\Kangaroo.pdb
+H:\HackerRank\Kangaroo\Kangaroo\obj\Debug\net6.0\Kangaroo.genruntimeconfig.cache
+H:\HackerRank\Kangaroo\Kangaroo\obj\Debug\net6.0\ref\Kangaroo.dll
