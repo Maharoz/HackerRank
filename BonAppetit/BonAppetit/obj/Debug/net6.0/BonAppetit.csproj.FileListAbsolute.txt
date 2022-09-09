@@ -1,0 +1,15 @@
+H:\HackerRank\BonAppetit\BonAppetit\bin\Debug\net6.0\BonAppetit.exe
+H:\HackerRank\BonAppetit\BonAppetit\bin\Debug\net6.0\BonAppetit.deps.json
+H:\HackerRank\BonAppetit\BonAppetit\bin\Debug\net6.0\BonAppetit.runtimeconfig.json
+H:\HackerRank\BonAppetit\BonAppetit\bin\Debug\net6.0\BonAppetit.dll
+H:\HackerRank\BonAppetit\BonAppetit\bin\Debug\net6.0\BonAppetit.pdb
+H:\HackerRank\BonAppetit\BonAppetit\obj\Debug\net6.0\BonAppetit.csproj.AssemblyReference.cache
+H:\HackerRank\BonAppetit\BonAppetit\obj\Debug\net6.0\BonAppetit.GeneratedMSBuildEditorConfig.editorconfig
+H:\HackerRank\BonAppetit\BonAppetit\obj\Debug\net6.0\BonAppetit.AssemblyInfoInputs.cache
+H:\HackerRank\BonAppetit\BonAppetit\obj\Debug\net6.0\BonAppetit.AssemblyInfo.cs
+H:\HackerRank\BonAppetit\BonAppetit\obj\Debug\net6.0\BonAppetit.csproj.CoreCompileInputs.cache
+H:\HackerRank\BonAppetit\BonAppetit\obj\Debug\net6.0\BonAppetit.dll
+H:\HackerRank\BonAppetit\BonAppetit\obj\Debug\net6.0\refint\BonAppetit.dll
+H:\HackerRank\BonAppetit\BonAppetit\obj\Debug\net6.0\BonAppetit.pdb
+H:\HackerRank\BonAppetit\BonAppetit\obj\Debug\net6.0\BonAppetit.genruntimeconfig.cache
+H:\HackerRank\BonAppetit\BonAppetit\obj\Debug\net6.0\ref\BonAppetit.dll

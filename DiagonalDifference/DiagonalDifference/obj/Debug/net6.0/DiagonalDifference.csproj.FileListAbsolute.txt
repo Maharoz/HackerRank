@@ -1,0 +1,15 @@
+H:\HackerRank\DiagonalDifference\DiagonalDifference\bin\Debug\net6.0\DiagonalDifference.exe
+H:\HackerRank\DiagonalDifference\DiagonalDifference\bin\Debug\net6.0\DiagonalDifference.deps.json
+H:\HackerRank\DiagonalDifference\DiagonalDifference\bin\Debug\net6.0\DiagonalDifference.runtimeconfig.json
+H:\HackerRank\DiagonalDifference\DiagonalDifference\bin\Debug\net6.0\DiagonalDifference.dll
+H:\HackerRank\DiagonalDifference\DiagonalDifference\bin\Debug\net6.0\DiagonalDifference.pdb
+H:\HackerRank\DiagonalDifference\DiagonalDifference\obj\Debug\net6.0\DiagonalDifference.csproj.AssemblyReference.cache
+H:\HackerRank\DiagonalDifference\DiagonalDifference\obj\Debug\net6.0\DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+H:\HackerRank\DiagonalDifference\DiagonalDifference\obj\Debug\net6.0\DiagonalDifference.AssemblyInfoInputs.cache
+H:\HackerRank\DiagonalDifference\DiagonalDifference\obj\Debug\net6.0\DiagonalDifference.AssemblyInfo.cs
+H:\HackerRank\DiagonalDifference\DiagonalDifference\obj\Debug\net6.0\DiagonalDifference.csproj.CoreCompileInputs.cache
+H:\HackerRank\DiagonalDifference\DiagonalDifference\obj\Debug\net6.0\DiagonalDifference.dll
+H:\HackerRank\DiagonalDifference\DiagonalDifference\obj\Debug\net6.0\refint\DiagonalDifference.dll
+H:\HackerRank\DiagonalDifference\DiagonalDifference\obj\Debug\net6.0\DiagonalDifference.pdb
+H:\HackerRank\DiagonalDifference\DiagonalDifference\obj\Debug\net6.0\DiagonalDifference.genruntimeconfig.cache
+H:\HackerRank\DiagonalDifference\DiagonalDifference\obj\Debug\net6.0\ref\DiagonalDifference.dll
