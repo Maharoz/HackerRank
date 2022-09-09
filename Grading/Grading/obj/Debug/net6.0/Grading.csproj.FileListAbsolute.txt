@@ -1,0 +1,15 @@
+H:\HackerRank\Grading\Grading\bin\Debug\net6.0\Grading.exe
+H:\HackerRank\Grading\Grading\bin\Debug\net6.0\Grading.deps.json
+H:\HackerRank\Grading\Grading\bin\Debug\net6.0\Grading.runtimeconfig.json
+H:\HackerRank\Grading\Grading\bin\Debug\net6.0\Grading.dll
+H:\HackerRank\Grading\Grading\bin\Debug\net6.0\Grading.pdb
+H:\HackerRank\Grading\Grading\obj\Debug\net6.0\Grading.csproj.AssemblyReference.cache
+H:\HackerRank\Grading\Grading\obj\Debug\net6.0\Grading.GeneratedMSBuildEditorConfig.editorconfig
+H:\HackerRank\Grading\Grading\obj\Debug\net6.0\Grading.AssemblyInfoInputs.cache
+H:\HackerRank\Grading\Grading\obj\Debug\net6.0\Grading.AssemblyInfo.cs
+H:\HackerRank\Grading\Grading\obj\Debug\net6.0\Grading.csproj.CoreCompileInputs.cache
+H:\HackerRank\Grading\Grading\obj\Debug\net6.0\Grading.dll
+H:\HackerRank\Grading\Grading\obj\Debug\net6.0\refint\Grading.dll
+H:\HackerRank\Grading\Grading\obj\Debug\net6.0\Grading.pdb
+H:\HackerRank\Grading\Grading\obj\Debug\net6.0\Grading.genruntimeconfig.cache
+H:\HackerRank\Grading\Grading\obj\Debug\net6.0\ref\Grading.dll
