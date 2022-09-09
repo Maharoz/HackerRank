@@ -1,0 +1,15 @@
+H:\HackerRank\sock-merchant\sock-merchant\bin\Debug\net6.0\sock-merchant.exe
+H:\HackerRank\sock-merchant\sock-merchant\bin\Debug\net6.0\sock-merchant.deps.json
+H:\HackerRank\sock-merchant\sock-merchant\bin\Debug\net6.0\sock-merchant.runtimeconfig.json
+H:\HackerRank\sock-merchant\sock-merchant\bin\Debug\net6.0\sock-merchant.dll
+H:\HackerRank\sock-merchant\sock-merchant\bin\Debug\net6.0\sock-merchant.pdb
+H:\HackerRank\sock-merchant\sock-merchant\obj\Debug\net6.0\sock-merchant.csproj.AssemblyReference.cache
+H:\HackerRank\sock-merchant\sock-merchant\obj\Debug\net6.0\sock-merchant.GeneratedMSBuildEditorConfig.editorconfig
+H:\HackerRank\sock-merchant\sock-merchant\obj\Debug\net6.0\sock-merchant.AssemblyInfoInputs.cache
+H:\HackerRank\sock-merchant\sock-merchant\obj\Debug\net6.0\sock-merchant.AssemblyInfo.cs
+H:\HackerRank\sock-merchant\sock-merchant\obj\Debug\net6.0\sock-merchant.csproj.CoreCompileInputs.cache
+H:\HackerRank\sock-merchant\sock-merchant\obj\Debug\net6.0\sock-merchant.dll
+H:\HackerRank\sock-merchant\sock-merchant\obj\Debug\net6.0\refint\sock-merchant.dll
+H:\HackerRank\sock-merchant\sock-merchant\obj\Debug\net6.0\sock-merchant.pdb
+H:\HackerRank\sock-merchant\sock-merchant\obj\Debug\net6.0\sock-merchant.genruntimeconfig.cache
+H:\HackerRank\sock-merchant\sock-merchant\obj\Debug\net6.0\ref\sock-merchant.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "sock-merchant/1.0.0": {
+        "runtime": {
+          "sock-merchant.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sock-merchant/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
