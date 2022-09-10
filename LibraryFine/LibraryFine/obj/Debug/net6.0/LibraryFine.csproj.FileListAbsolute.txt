@@ -1,0 +1,15 @@
+H:\HackerRank\LibraryFine\LibraryFine\bin\Debug\net6.0\LibraryFine.exe
+H:\HackerRank\LibraryFine\LibraryFine\bin\Debug\net6.0\LibraryFine.deps.json
+H:\HackerRank\LibraryFine\LibraryFine\bin\Debug\net6.0\LibraryFine.runtimeconfig.json
+H:\HackerRank\LibraryFine\LibraryFine\bin\Debug\net6.0\LibraryFine.dll
+H:\HackerRank\LibraryFine\LibraryFine\bin\Debug\net6.0\LibraryFine.pdb
+H:\HackerRank\LibraryFine\LibraryFine\obj\Debug\net6.0\LibraryFine.csproj.AssemblyReference.cache
+H:\HackerRank\LibraryFine\LibraryFine\obj\Debug\net6.0\LibraryFine.GeneratedMSBuildEditorConfig.editorconfig
+H:\HackerRank\LibraryFine\LibraryFine\obj\Debug\net6.0\LibraryFine.AssemblyInfoInputs.cache
+H:\HackerRank\LibraryFine\LibraryFine\obj\Debug\net6.0\LibraryFine.AssemblyInfo.cs
+H:\HackerRank\LibraryFine\LibraryFine\obj\Debug\net6.0\LibraryFine.csproj.CoreCompileInputs.cache
+H:\HackerRank\LibraryFine\LibraryFine\obj\Debug\net6.0\LibraryFine.dll
+H:\HackerRank\LibraryFine\LibraryFine\obj\Debug\net6.0\refint\LibraryFine.dll
+H:\HackerRank\LibraryFine\LibraryFine\obj\Debug\net6.0\LibraryFine.pdb
+H:\HackerRank\LibraryFine\LibraryFine\obj\Debug\net6.0\LibraryFine.genruntimeconfig.cache
+H:\HackerRank\LibraryFine\LibraryFine\obj\Debug\net6.0\ref\LibraryFine.dll
