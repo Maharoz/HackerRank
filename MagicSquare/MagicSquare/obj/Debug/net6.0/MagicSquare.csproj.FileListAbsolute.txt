@@ -1,0 +1,15 @@
+H:\HackerRank\MagicSquare\MagicSquare\bin\Debug\net6.0\MagicSquare.exe
+H:\HackerRank\MagicSquare\MagicSquare\bin\Debug\net6.0\MagicSquare.deps.json
+H:\HackerRank\MagicSquare\MagicSquare\bin\Debug\net6.0\MagicSquare.runtimeconfig.json
+H:\HackerRank\MagicSquare\MagicSquare\bin\Debug\net6.0\MagicSquare.dll
+H:\HackerRank\MagicSquare\MagicSquare\bin\Debug\net6.0\MagicSquare.pdb
+H:\HackerRank\MagicSquare\MagicSquare\obj\Debug\net6.0\MagicSquare.csproj.AssemblyReference.cache
+H:\HackerRank\MagicSquare\MagicSquare\obj\Debug\net6.0\MagicSquare.GeneratedMSBuildEditorConfig.editorconfig
+H:\HackerRank\MagicSquare\MagicSquare\obj\Debug\net6.0\MagicSquare.AssemblyInfoInputs.cache
+H:\HackerRank\MagicSquare\MagicSquare\obj\Debug\net6.0\MagicSquare.AssemblyInfo.cs
+H:\HackerRank\MagicSquare\MagicSquare\obj\Debug\net6.0\MagicSquare.csproj.CoreCompileInputs.cache
+H:\HackerRank\MagicSquare\MagicSquare\obj\Debug\net6.0\MagicSquare.dll
+H:\HackerRank\MagicSquare\MagicSquare\obj\Debug\net6.0\refint\MagicSquare.dll
+H:\HackerRank\MagicSquare\MagicSquare\obj\Debug\net6.0\MagicSquare.pdb
+H:\HackerRank\MagicSquare\MagicSquare\obj\Debug\net6.0\MagicSquare.genruntimeconfig.cache
+H:\HackerRank\MagicSquare\MagicSquare\obj\Debug\net6.0\ref\MagicSquare.dll
