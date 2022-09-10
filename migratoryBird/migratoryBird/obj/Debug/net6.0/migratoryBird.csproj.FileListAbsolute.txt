@@ -1,0 +1,15 @@
+H:\HackerRank\migratoryBird\migratoryBird\bin\Debug\net6.0\migratoryBird.exe
+H:\HackerRank\migratoryBird\migratoryBird\bin\Debug\net6.0\migratoryBird.deps.json
+H:\HackerRank\migratoryBird\migratoryBird\bin\Debug\net6.0\migratoryBird.runtimeconfig.json
+H:\HackerRank\migratoryBird\migratoryBird\bin\Debug\net6.0\migratoryBird.dll
+H:\HackerRank\migratoryBird\migratoryBird\bin\Debug\net6.0\migratoryBird.pdb
+H:\HackerRank\migratoryBird\migratoryBird\obj\Debug\net6.0\migratoryBird.csproj.AssemblyReference.cache
+H:\HackerRank\migratoryBird\migratoryBird\obj\Debug\net6.0\migratoryBird.GeneratedMSBuildEditorConfig.editorconfig
+H:\HackerRank\migratoryBird\migratoryBird\obj\Debug\net6.0\migratoryBird.AssemblyInfoInputs.cache
+H:\HackerRank\migratoryBird\migratoryBird\obj\Debug\net6.0\migratoryBird.AssemblyInfo.cs
+H:\HackerRank\migratoryBird\migratoryBird\obj\Debug\net6.0\migratoryBird.csproj.CoreCompileInputs.cache
+H:\HackerRank\migratoryBird\migratoryBird\obj\Debug\net6.0\migratoryBird.dll
+H:\HackerRank\migratoryBird\migratoryBird\obj\Debug\net6.0\refint\migratoryBird.dll
+H:\HackerRank\migratoryBird\migratoryBird\obj\Debug\net6.0\migratoryBird.pdb
+H:\HackerRank\migratoryBird\migratoryBird\obj\Debug\net6.0\migratoryBird.genruntimeconfig.cache
+H:\HackerRank\migratoryBird\migratoryBird\obj\Debug\net6.0\ref\migratoryBird.dll

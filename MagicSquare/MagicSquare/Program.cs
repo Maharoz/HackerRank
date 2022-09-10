@@ -10,12 +10,6 @@ a.CopyTo(z, 0);
 b.CopyTo(z, a.Length);
 c.CopyTo(z, a.Length+b.Length);
 
-
-
-
-
-
-
 List<List<int>> list = new List<List<int>>();
 
 List<int> list2 = new List<int>();
@@ -80,10 +74,7 @@ list2.Add(6);
 list2.Add(1);
 list2.Add(8);
 
-
 list.Add(list2);
-
-
 
 list2 = new List<int>();
 
@@ -101,9 +92,6 @@ list2.Add(7);
 list2.Add(2);
 
 list.Add(list2);
-
-
-
 
 list2 = new List<int>();
 
@@ -129,7 +117,6 @@ list2.Add(6);
 list2.Add(7);
 list2.Add(2);
 
-
 list2.Add(1);
 list2.Add(5);
 list2.Add(9);
@@ -147,7 +134,6 @@ list2.Add(2);
 list2.Add(7);
 list2.Add(6);
 
-
 list2.Add(9);
 list2.Add(5);
 list2.Add(1);
@@ -157,13 +143,8 @@ list2.Add(3);
 list2.Add(8);
 
 list.Add(list2);
-
-
-
-
 
 int minCost = int.MaxValue;
-
 
 foreach (List<int> i in list)
 {
