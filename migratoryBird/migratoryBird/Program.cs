@@ -1,6 +1,7 @@
 ﻿//https://www.hackerrank.com/challenges/migratory-birds/
 
 using System.Linq;
+var a = Console.ReadLine();
 var ar_temp = Console.ReadLine().Split(' ');
 var ar = Array.ConvertAll(ar_temp, int.Parse);
 var result = MigratoryBirds(ar);
