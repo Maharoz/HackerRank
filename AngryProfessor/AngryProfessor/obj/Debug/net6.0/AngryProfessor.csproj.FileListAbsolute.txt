@@ -1,0 +1,15 @@
+H:\HackerRank\AngryProfessor\AngryProfessor\bin\Debug\net6.0\AngryProfessor.exe
+H:\HackerRank\AngryProfessor\AngryProfessor\bin\Debug\net6.0\AngryProfessor.deps.json
+H:\HackerRank\AngryProfessor\AngryProfessor\bin\Debug\net6.0\AngryProfessor.runtimeconfig.json
+H:\HackerRank\AngryProfessor\AngryProfessor\bin\Debug\net6.0\AngryProfessor.dll
+H:\HackerRank\AngryProfessor\AngryProfessor\bin\Debug\net6.0\AngryProfessor.pdb
+H:\HackerRank\AngryProfessor\AngryProfessor\obj\Debug\net6.0\AngryProfessor.csproj.AssemblyReference.cache
+H:\HackerRank\AngryProfessor\AngryProfessor\obj\Debug\net6.0\AngryProfessor.GeneratedMSBuildEditorConfig.editorconfig
+H:\HackerRank\AngryProfessor\AngryProfessor\obj\Debug\net6.0\AngryProfessor.AssemblyInfoInputs.cache
+H:\HackerRank\AngryProfessor\AngryProfessor\obj\Debug\net6.0\AngryProfessor.AssemblyInfo.cs
+H:\HackerRank\AngryProfessor\AngryProfessor\obj\Debug\net6.0\AngryProfessor.csproj.CoreCompileInputs.cache
+H:\HackerRank\AngryProfessor\AngryProfessor\obj\Debug\net6.0\AngryProfessor.dll
+H:\HackerRank\AngryProfessor\AngryProfessor\obj\Debug\net6.0\refint\AngryProfessor.dll
+H:\HackerRank\AngryProfessor\AngryProfessor\obj\Debug\net6.0\AngryProfessor.pdb
+H:\HackerRank\AngryProfessor\AngryProfessor\obj\Debug\net6.0\AngryProfessor.genruntimeconfig.cache
+H:\HackerRank\AngryProfessor\AngryProfessor\obj\Debug\net6.0\ref\AngryProfessor.dll
